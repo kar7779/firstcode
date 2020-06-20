@@ -1,2 +1,0 @@
-# firstcode
-My first repo
